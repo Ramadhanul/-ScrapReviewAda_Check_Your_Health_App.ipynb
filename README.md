@@ -1,6 +1,6 @@
 
 # Project Analisis Sentimen
-## ScrapReviewSehat_Indonesiaku_App.ipynb
+## ScrapReviewRiliv_App.ipynb
 ## Deskripsi
 
 Proyek ini menggunakan analisis sentimen untuk bahasa Inggris. Jika Anda ingin mengubah analisis sentimen ke bahasa Indonesia, harap ikuti petunjuk di bawah ini.
