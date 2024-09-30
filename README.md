@@ -16,7 +16,7 @@ Sebelum menjalankan proyek ini di lingkungan lokal Anda, pastikan untuk menginst
 
 ```bash
 pip install -r requirements.txt
-
+```
 # Beberapa Interpretasi Kalimat yang mungkin ambigu dalam DATA Riliv : Mental Health App
 
 ## "Aplikasinya ringan"
